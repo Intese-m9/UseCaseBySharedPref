@@ -2,7 +2,6 @@ package com.example.usecasebysharedpref.data.storage.sharedprefs
 
 import android.content.Context
 import com.example.usecasebysharedpref.data.storage.UserStorage
-import com.example.usecasebysharedpref.data.storage.model.StorageParam
 import com.example.usecasebysharedpref.data.storage.model.UserNameStorage
 
 private const val SHARED_PREFS_NAME = "shared_prefs_name"//файл настроек SharedPreferences
